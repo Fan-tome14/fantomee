@@ -1,0 +1,36 @@
+h1
+{
+	color: white;
+}
+
+body
+{
+	background-image: url("https://th.bing.com/th/id/OIP.WXxSNOIrCnfANISrDmQ9LgHaE8?pid=ImgDet&rs=1");
+}
+
+#carte
+{
+	width: 800px;
+	margin:0 auto;
+	background-color: black;
+	texte-align: center;
+	align-content: center;
+}
+
+div	{
+	text-align: center;
+}
+
+div {
+	color: #9FACE1;
+}
+
+h2
+{
+	color: white;
+}
+
+h3
+{
+	color: white;
+}
